@@ -11,4 +11,4 @@ Host base
 Host github.com
     User git
     IdentitiesOnly yes
-    IdentityFile ~/.ssh/keys/github
+    IdentityFile ~/.ssh/keys/github.key
