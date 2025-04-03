@@ -1,3 +1,8 @@
+Host github.com
+    User git
+    IdentitiesOnly yes
+    IdentityFile ~/.ssh/keys/github.key
+
 Host hostinger
     HostName 195.35.49.199
     User u196888610
@@ -7,8 +12,3 @@ Host base
     HostName 158.101.181.71
     User ubuntu
     IdentityFile ~/.ssh/keys/base_machine.key
-
-Host github.com
-    User git
-    IdentitiesOnly yes
-    IdentityFile ~/.ssh/keys/github.key
