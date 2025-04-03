@@ -4,8 +4,8 @@ quick way to sync my settings between devices
 
 ## How to use it?
 Pull this repo to a new device, and:
-- create hard link to .vimrc file
-- create hard link to .ssh/config file
+- create soft link to .vimrc file
+- create soft link to .ssh/config file
 
 ## to-do list
 - do something similar for a .bashrc script
