@@ -1,7 +1,7 @@
 Host github.com
     User git
     IdentitiesOnly yes
-    IdentityFile ~/.ssh/keys/github.key
+    IdentityFile ~/.ssh/keys/id_ed25519
 
 Host hostinger
     HostName 195.35.49.199
