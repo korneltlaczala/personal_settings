@@ -11,4 +11,4 @@ Host hostinger
 Host base
     HostName 130.61.57.49
     User ubuntu
-    IdentityFile ~/.ssh/keys/base_machine.key
+    IdentityFile ~/.ssh/keys/id_rsa
