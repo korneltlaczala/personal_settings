@@ -9,6 +9,6 @@ Host hostinger
     Port 65002
 
 Host base
-    HostName 152.70.166.72
+    HostName 130.61.57.49
     User ubuntu
     IdentityFile ~/.ssh/keys/base_machine.key
