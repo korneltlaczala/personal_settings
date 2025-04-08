@@ -7,6 +7,7 @@ Host hostinger
     HostName 195.35.49.199
     User u196888610
     Port 65002
+    IdentityFile ~/.ssh/keys/id_ed25519
 
 Host base
     HostName 130.61.57.49
