@@ -46,6 +46,10 @@ if &term =~ '^xterm'
     " 6 -> solid vertical bar
 endif
 
+"  tab switching
+"  -----------------
+nnoremap <A-d> :tabn<CR>
+
 "  -----------------
 "  -----------------
 "  -----------------
